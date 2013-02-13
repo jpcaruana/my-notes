@@ -1,6 +1,6 @@
-% Big Data - Opening Keynote
-% Martin Fowler
-% Rebecca Parsons
+    Big Data - Opening Keynote
+    Martin Fowler
+    Rebecca Parsons
 
 # Changing nature of data
 ## Data is growing outside of our control
@@ -25,16 +25,20 @@ within its ecosystem
 
 * 1 huge server -> lots of small boxes
 * SQL doesn't work in a cluster -> NoSQL
-** Google : BigTable
-** Amazon : Dynamo
+Google : BigTable
+
+Amazon : Dynamo
 * NoSQL, Aggregates (from E. Evans' DDD)
-** non relational
-** open source
-** cluster frientdly
-** 21st century web
+non relational
+
+open source
+
+cluster frientdly
+
+21st century web
 * store aggregates directly, no need to shard -> polyglot persistance
 * moving from "Integration DB" to "Application DB"
-** one DB/application different than one DB for all applications
+one DB/application different than one DB for all applications
 
 # Event sourcing
 2 levels of storage :
