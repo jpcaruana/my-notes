@@ -23,21 +23,17 @@ within its ecosystem
 # Response to data change
 (before -> after)
 
-* 1 huge server -> lots of small boxes
-* SQL doesn't work in a cluster -> NoSQL
-Google : BigTable
-
-Amazon : Dynamo
-* NoSQL, Aggregates (from E. Evans' DDD)
-non relational
-
-open source
-
-cluster frientdly
-
-21st century web
-* store aggregates directly, no need to shard -> polyglot persistance
-* moving from "Integration DB" to "Application DB"
+## 1 huge server -> lots of small boxes
+## SQL doesn't work in a cluster -> NoSQL
+* Google : BigTable
+* Amazon : Dynamo
+## NoSQL, Aggregates (from E. Evans' DDD)
+* non relational
+* open source
+* cluster frientdly
+* 21st century web
+## store aggregates directly, no need to shard -> polyglot persistance
+## moving from "Integration DB" to "Application DB"
 one DB/application different than one DB for all applications
 
 # Event sourcing
