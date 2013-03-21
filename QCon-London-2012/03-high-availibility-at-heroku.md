@@ -24,11 +24,9 @@ Brokered queueing (producer/consumer pattern) :
 
 Read call-graph partial failure : graceful termination.
 
-Write call-graph de-synchronization : write a local ticket (to a local database) to delay write operations when not available.
+Write call-graph de-synchronization : write a ticket (to a local database) to delay write operations when not available.
 
-## Execution
-(eveything outside architecture)
-
+## Execution (eveything outside architecture)
 Evolving socio-technical ecosystems. Most of the problems are :
 * failed deploy
 * bad visibility
@@ -36,8 +34,8 @@ Evolving socio-technical ecosystems. Most of the problems are :
 
 Need for a very *repeatable* deploy :
 * incremental deploys : deploy to a few nodes and incresing deploy perimeter when confidence grows
-* incremental rollouts (features) : feature flags for dev, beta users then all
-* reas time visibility : dashboads (60s visibility)
+* incremental rollouts (features) : feature flags for dev, beta users then all users
+* real time visibility : dashboards (60s visibility)
 * service level assertions : asserts in code, global level for a service. Assert good things too
 
 Flow control and back pressure : some systems can't absorb all load :
