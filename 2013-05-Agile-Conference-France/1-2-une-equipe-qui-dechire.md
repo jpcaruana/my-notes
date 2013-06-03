@@ -6,7 +6,6 @@
     références : livre Tribal leadership, par David Loagan, John King et Halee Fischer-Wright 
     références : www.charisme-durable.fr
 
-
 Un leader -> une équipe -> un produit
 
 La dynamique leader/équipe sous l'axe de l'énergie.
@@ -44,7 +43,6 @@ Concentrer le maximum d'énergie à faire de la valeur ajoutée : le produit.
 
 ----
 ----
-
 ## Texte de présentation
 http://www.conference-agile.fr/sessions/un-produit-qui-dechire-une-equipe-qui-dechire-un-leader-qui-dechire.html
 
