@@ -1,4 +1,4 @@
-# Fault tolerence
+# Fault tolerence : anomaly detection, anticipation patterns
     John Allspaw, Etsy
     Track: High available systems
 
