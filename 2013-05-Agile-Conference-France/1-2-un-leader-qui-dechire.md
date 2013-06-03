@@ -3,7 +3,7 @@
     
     références : analyse transactionnelle
     références : modèle DISC
-    références : livre Tribal leadership, par David Loagan, John King et Halee Fischer-Wright 
+    références : livre "Tribal leadership", par David Loagan, John King et Halee Fischer-Wright 
     références : theory of rising expectations
     références : psychologie positive
     références : www.charisme-durable.fr
@@ -29,7 +29,7 @@ Nécessité d'affronter ses peurs pour devenir un grand leader. Il faut identifi
 * dépêche toi
 * fais des efforts
 
-Il y a environ 1 ou 2 drivers dominats par personne. Les identifier permet de se comporter en adulte, -> énergie pour l'action par opposition à "justifier son état".
+Il y a environ 1 ou 2 drivers dominants par personne. Les identifier permet de se comporter en adulte -> énergie pour l'action par opposition à "justifier son état".
 
 ## 2. Impédance mismatch
 Connaissance de l'autre : le modèle DISC. Illustration : http://www.discoveryreport.com/model_4_traits_DISC.jpg
@@ -51,29 +51,31 @@ Les 5 stades d'une tribu:
 * 1. les mercenaires
 * 2. les apathiques
 * 3. le héro solitaire (expert individualiste). C'est un optimum local
-* 4. triabl leadership : penser en tant qu'équipe (équipe autonome)
-* 5. vue universelle (plus loin que le cadre de san entreprise)
+* 4. tribal leadership : penser en tant qu'équipe (équipe autonome)
+* 5. vue universelle (plus loin que le cadre de son entreprise)
 
 La tribu est plus importante que l'individu.
 
 ## 4. Le flow
-* Le flow, c'est la capacité à trouver un challenge, le dépasser, puis en trouver un autre etc. Le flow ne peut pas être interrompu (sinon ce n'est plus du flow)
-* Grâce à l'agilité, nous avons de petites livraisons, de petits challenges ; cela permet d'être dans le flow
+* Le flow, c'est la capacité à trouver un challenge, le dépasser, puis en trouver un autre, le dépasser à nouveau etc.
+* Le flow ne peut pas être interrompu (sinon ce n'est plus du flow)
+* Grâce à l'agilité, nous avons de petites livraisons, de petits challenges ; cela permet d'être/rester dans le flow
 * L'énergie est inversement proportionnelle à la durée : il faut redonner du challenges à l'équipe
 * Individualiser le flow
 * Casser la routine, être surprennant (offrez des fleurs à vos équipes)
 * Pensez défi, pas obstacle !
 * Theory of rising expectations (a theory that descripes what can happen when the peoples expectations are lower than the reallfe scenarios) - liée à Maslow
-* Recréer de l'énergie : recréer la "peur de mourir"
+* Recréer de l'énergie, recréer la "peur de mourir"
 * Redescendhre l'énergie dans les premiers niveaux de la pyramide de Maslow
 
 ## 5. La psychologie positive
 (beaucoup de présentation TED sur ce sujet)
-C'est très contagieux (rien à voin avec les Bisounours) :
+
+C'est très contagieux (rien à voir avec les Bisounours) :
 * dites merci
 * faites des actes de bonté aléatoires
 
-C'est l'attitude qui compte. Cela diminue le stress
+C'est l'attitude qui compte. Cela diminue le stress.
 
 ## Conclusion
 Le leader "green" (qui déchire):
