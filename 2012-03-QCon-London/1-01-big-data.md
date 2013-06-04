@@ -73,4 +73,3 @@ Beware of privacy : protection VS privacy
 Developpers have :
 * to be careful not to distord information
 * the responsability to make accurate connections
-

@@ -1,6 +1,6 @@
 # From value to values : why management has to change and how IT is inspiring the solution
     Peter Stevens (@peterstev)
-    
+
     références : http://www.stoosnetwork.org
 
 
@@ -26,9 +26,9 @@ Globalization transfered power from industries to individual customer : "take wh
 The manager as an enabler
 
 ## Better ways to make (customer visible) value
-Why ? 
+Why ?
 
-## Stoos 
+## Stoos
 http://www.stoosnetwork.org
 
 Movement about agile organizations.

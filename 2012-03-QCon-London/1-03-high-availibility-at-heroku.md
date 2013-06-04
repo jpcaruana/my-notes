@@ -39,5 +39,5 @@ Need for a very *repeatable* deploy :
 * service level assertions : asserts in code, global level for a service. Assert good things too
 
 Flow control and back pressure : some systems can't absorb all load :
-* divert traffic from this system 
+* divert traffic from this system
 * limit message passing (parameters on a file system like /etc/rate/publish)

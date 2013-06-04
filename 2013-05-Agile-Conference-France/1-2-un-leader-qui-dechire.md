@@ -1,9 +1,9 @@
 # Une produit qui déchire, une équipe qui déchire... un leader qui déchire
     David Alia, Octo
-    
+
     références : analyse transactionnelle
     références : modèle DISC
-    références : livre "Tribal leadership", par David Loagan, John King et Halee Fischer-Wright 
+    références : livre "Tribal leadership", par David Loagan, John King et Halee Fischer-Wright
     références : theory of rising expectations
     références : psychologie positive
     références : www.charisme-durable.fr
@@ -111,4 +111,3 @@ Le format de la session : pas de slide, que du participatif. L'originalité : j'
 Je suis Directeur Associé chez OCTO, et j'encadre une équipe d'une trentaine de personnes. J'accompagne mes clients sur du contenu (architecture, agilité, lean, innovation) mais également pour du coaching de management.
 
 Je présente de nombreuses conférences privées et publiques, dont une sur le management qui a été filmée à l'USI 2012 sur le bien-être et la productivité au travail.
-
