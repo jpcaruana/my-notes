@@ -1,12 +1,39 @@
-# Une produit qui déchire, une équipe qui déchire... un leader qui déchire
+# Real options : quand et comment (ne pas) prendre des décisions
     Pascal van Cauwenberghe
     références : fr.wikipedia.org/wiki/Analyse_par_les_options_r%C3%A9elles
+    références : livre "The Principles of Product Development Flow: Second Generation Lean Product Development" (Flow) par Preston G. Smith et Donald G. Reinertsen
     références : livre "Creativity today" par Igor Byttebier et Ramon Vullings
+    références : commitment-thebook.com
+    références : livre "Predictably Irrational" par Dan Ariely
 
 ## 1. Cost of delay
+Quelle perte de chiffr d'affaire pour un jour de délai ? (voir le livre Flow)
+
 ## 2. Creative process
+voir le livre Creativity today.
+
+À partir d'un problème, il faut se générer des options afin de pouvoir tester et choisir avant d'implémenter : *découper en petits problèmes*.
+
+Les real options :
+* ont un coût
+* ont une valeur
+* ont un prix (strike price) au momont où on l'achète
+* ont une date d'expiration
+* ne sont pas des obligations d'achat
+* utilisation d'un *rétroplanning* pour déterminer la date de la décision
+
 ## 3. Real options optimal decision process
+voir commitment-thebook.com
+
+Il faut ré-évaluer le portefeuille d'options régulièrement en prenant en compte le *pire* scénario pour estimer les délais.
+
 ## 4. Set-based design
+voir le livre Predictably
+
+Les humains sont irrationnels mais prévisibles.
+
+## 5. Sunk-cost fallacy
+
 
 ----
 ----
