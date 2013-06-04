@@ -1,6 +1,5 @@
 # Une produit qui déchire, une équipe qui déchire... un leader qui déchire
     David Alia, Octo
-
     références : analyse transactionnelle
     références : modèle DISC
     références : livre "Tribal leadership", par David Loagan, John King et Halee Fischer-Wright
