@@ -33,7 +33,7 @@ voir le livre Predictably
 Les humains sont irrationnels mais prévisibles.
 
 ## 5. Sunk-cost fallacy
-"#"Tout temps, tout argent investi est perdu". Solution ? regarder les deltas coût/valeur.
+"Tout temps, tout argent investi est perdu". Solution ? regarder les deltas coût/valeur.
 
 Il est difficile d'estimer en absolu : tendance à sur-estimer les coûts et sous-estimer ce qu'on a déjà.
 * ce genre de décision favorise le court terme
@@ -43,7 +43,7 @@ Au lieu de décider, on établit un *plan* pour décider : quand, comment, avec 
 
 Quelle est la valeur *pour le client* de l'architecture et du processus ? Une bonne architecture crée des options pour l'équipe, pour l'organisation, pour le client : maintenir petit à petit.
 
-Un système legacy n'a plus d'options.
+Un système legacy est un système qui n'a plus d'options.
 
 
 ----
