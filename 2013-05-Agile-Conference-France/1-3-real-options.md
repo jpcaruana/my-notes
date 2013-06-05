@@ -7,7 +7,7 @@
     références : livre "Predictably Irrational" par Dan Ariely
 
 ## 1. Cost of delay
-Quelle perte de chiffr d'affaire pour un jour de délai ? (voir le livre Flow)
+Quelle perte de chiffre d'affaire pour un jour de délai ? (voir le livre Flow)
 
 ## 2. Creative process
 voir le livre Creativity today.
@@ -17,13 +17,13 @@ voir le livre Creativity today.
 Les real options :
 * ont un coût
 * ont une valeur
-* ont un prix (strike price) au momont où on l'achète
+* ont un prix (strike price) au moment où on l'achète
 * ont une date d'expiration
 * ne sont pas des obligations d'achat
 * utilisation d'un *rétroplanning* pour déterminer la date de la décision
 
 ## 3. Real options optimal decision process
-voir commitment-thebook.com
+voir http://commitment-thebook.com
 
 Il faut ré-évaluer le portefeuille d'options régulièrement en prenant en compte le *pire* scénario pour estimer les délais.
 
@@ -33,6 +33,17 @@ voir le livre Predictably
 Les humains sont irrationnels mais prévisibles.
 
 ## 5. Sunk-cost fallacy
+"#"Tout temps, tout argent investi est perdu". Solution ? regarder les deltas coût/valeur.
+
+Il est difficile d'estimer en absolu : tendance à sur-estimer les coûts et sous-estimer ce qu'on a déjà.
+* ce genre de décision favorise le court terme
+* trop de choix bloque le choix (trop d'options, trop générique)
+
+Au lieu de décider, on établit un *plan* pour décider : quand, comment, avec qui, avec quelles données.
+
+Quelle est la valeur *pour le client* de l'architecture et du processus ? Une bonne architecture crée des options pour l'équipe, pour l'organisation, pour le client : maintenir petit à petit.
+
+Un système legacy n'a plus d'options.
 
 
 ----
