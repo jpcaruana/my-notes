@@ -1,7 +1,34 @@
 # Coacher des managers
     Antoine Contal
     références : livre "La pratique du lean management dans l’IT" par Marie-Pia Ignace, Christian Ignace, Régis Medina et Antoine Contal
+    références : livre " Change or Die: The Three Keys to Change at Work and in Life" par Alan Deutschman
 
+(je suis arrivé en cours de session...)
+
+* définir le succès pour réussir
+* faire définir le succès, c'est déjà caocher
+* guider vers les sujets  qui payent
+
+Il s'agit d'augmenter la performance *objective* (mesurée, observée) ET d'améliorer les conditions de travail des équipes de management. Écouter l'utilisateur (soit en direct, soit d'aller voir la hotsine, soit de lire les tickets). Il faut revenir à la *valeur*.
+
+## 2. Définir la performance
+* stratégie
+* voix du client
+* juste à temps (lead time, stocks, en cours)
+* qualité à la source (NRFT)
+* moral
+* économique, cash
+
+hoshin kanri : déployez vos stratégies lean
+
+## 3. Aller voir (chez les développeurs)
+
+Les 3 *R* (livre : Change or die) :
+* Relate
+* Repeat
+* Reframe
+
+Le manager comme un développeur de talents.
 
 ----
 ----
