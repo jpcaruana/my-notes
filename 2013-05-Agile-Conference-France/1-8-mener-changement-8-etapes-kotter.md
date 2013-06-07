@@ -3,7 +3,7 @@
     références : "Our Iceberg is Melting: Changing and Succeeding Under Any Conditions", par John Kotter
     références : "Leading change", par John Kotter
 
-Méthode pour les situations à fort enjeu
+Méthode pour les situations à (très) fort enjeu (sauver une entreprise de la banqueroute).
 
 ## 1. Créer/susciter un *sentiment* d'urgence
 * un sentiment n'est pas rationnel
@@ -15,18 +15,18 @@ Méthode pour les situations à fort enjeu
 ## 2. Établir une coalition puissante
 Une coalition de changement qui va guider ce changement pendant toute sa durée
 
-Qui est légitime ? Il faut des meneurs, des gestnionnaires, une grande complémentarité des profils. Le team building est ici indispensable.
+Qui est légitime ? Il faut des meneurs, des gestionnaires, une grande complémentarité des profils. Le team building est ici indispensable.
 * pas de choix politique
-* capable de toucher toute l'organisation
-* penser aux syndicats, au QHSCT
-* ne pas : créer une coalition insuffisament puissante (ns pouvoir)
+* coalition capable de toucher toute l'organisation
+* penser aux syndicats, au QHSCT (des leaders d'opinion potentiels)
+* ne pas : créer une coalition insuffisament puissante (sans pouvoir)
 
 ## 3. Établir une vision et une stratégie
 Écrire ce document en une vingtaine de lignes. Doit être "attirante pour le coeur, séduisante pour l'esprit".
 * une bonne vision = un choix
 * la vision donne le *quoi*
 * la stratégie donne le *comment* pour atteindre la vision
-* pas de trou dans la stratégie (cf le test des nains de South Park)
+* pas de trou dans la stratégie (cf le test des nains de South Park : d'abord on vole tous les slips, ensuite heu... on verra puis enfin on est maîtres du monde)
 * ne pas : sous-estimer la puissance de la vision
 
 ## 4. Communiquer la vision
@@ -38,7 +38,7 @@ La grande erreur est de sous-communiquer (d'un facteur 10, 100, 1000). Il faut d
 ne pas : laisser les obstacles barrer la route de la vision
 
 ## 6. Générer des réussites à court terme
-Il est nécessaire defactualiser, communiquer en racontant des histoires. Les habitudes ont la vie dure, il faut donc expliquer les réussites sous les enjeux de l'entreprise.
+Il est nécessaire de factualiser, communiquer en racontant des histoires. Les habitudes ont la vie dure, il faut donc expliquer les réussites sous les enjeux de l'entreprise.
 
 ## 7. Consolider les gains et produire plus de changement
 ne pas : crier victoire trop tôt
@@ -46,7 +46,7 @@ ne pas : crier victoire trop tôt
 Décomposer les domaines à changer
 
 ## 8. Ancrer ces changements dans la culture de l'entreprise
-Éradiquer les ferments de l'ancienne culture qui sont en contradiction (en identifiant les conflits profonds) avec la nouvelle culture. "hacknig culturel".
+Éradiquer les ferments de l'ancienne culture qui sont en contradiction (en identifiant les conflits profonds) avec la nouvelle culture. "hacking culturel".
 
 ## Comment aborder les 8 étapes
 * respecter les étapes

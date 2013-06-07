@@ -6,10 +6,10 @@
 (je suis arrivé en cours de session...)
 
 * définir le succès pour réussir
-* faire définir le succès, c'est déjà caocher
+* faire définir le succès, c'est déjà coacher
 * guider vers les sujets  qui payent
 
-Il s'agit d'augmenter la performance *objective* (mesurée, observée) ET d'améliorer les conditions de travail des équipes de management. Écouter l'utilisateur (soit en direct, soit d'aller voir la hotsine, soit de lire les tickets). Il faut revenir à la *valeur*.
+Il s'agit d'augmenter la performance *objective* (mesurée, observée) ET d'améliorer les conditions de travail des équipes de management. Écouter l'utilisateur (soit en direct, soit d'aller voir la hotline, soit de lire les tickets). Il faut revenir à la *valeur*.
 
 ## 2. Définir la performance
 * stratégie
