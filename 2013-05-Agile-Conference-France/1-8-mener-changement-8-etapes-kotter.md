@@ -55,7 +55,7 @@ Décomposer les domaines à changer
 * utiliser les 8 étapes / les 8 erreurs comme une grille d'analyse
 
 Un meneur :
-* son entourage lui demande d'être un memeur
+* son entourage lui demande d'être un meneur
 * celui-ci accepte/assume
 
 
