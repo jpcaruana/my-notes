@@ -17,7 +17,7 @@ Il y a 2 solutions:
 
 Pour la dernière solution, qui me semble plus élégante, il faut éditer le fichier */etc/sudoers* et y ajouter la ligne (pour le user jpcaruana) :
 ````
-jpcaruana   ALL=(root) NOPASSWD:/sur/sbin/pm-suspend
+jpcaruana   ALL=(root) NOPASSWD:/usr/sbin/pm-suspend
 ````
 
 Enfin, il faut mapper la commande sur un raccourci clavier (selon votre environement de bureau) : j'ai choisi pour ma part Ctrl+Alt+Desktop.
