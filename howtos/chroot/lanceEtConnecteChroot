@@ -1,0 +1,43 @@
+#!/bin/bash
+bindir=$(dirname $0)
+root_dir=$bindir/root_dir
+
+ps aux|grep chroot|grep root_dir > /dev/null
+code_retour=$?
+
+if [[ $code_retour == 0 ]] ;
+then
+  # chroot deja lance
+  ssh -Y user@serveur -p220
+  exit $?
+fi
+
+echo "Lancement du chroot"
+
+montePointsPourChroot() {
+	sudo echo -ne "mounting pseudo filesystems:"
+	for pseudo in dev dev/pts proc sys
+	do
+		sudo mount --bind /$pseudo  $root_dir/$pseudo
+		echo -ne " $pseudo"
+	done
+	echo ""
+}
+
+demontePointsPourChroot() {
+	echo -ne "unmounting pseudo filesystems:"
+	for pseudo in dev/pts proc sys dev
+	do
+		sudo umount -l $root_dir/$pseudo
+		echo -ne " $pseudo"
+	done
+	echo ""
+}
+
+montePointsPourChroot
+
+echo "Le .bashrc de root va lancer $root_dir/init_chroot.sh"
+sudo su -c "chroot $root_dir /bin/bash"
+sudo su -c "chroot $root_dir /arrete_chroot.sh" # fait des kill
+
+demontePointsPourChroot

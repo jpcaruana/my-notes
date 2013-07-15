@@ -1,0 +1,31 @@
+#!/bin/bash
+bindir=$(dirname $0)
+root_dir=$bindir/root_dir
+
+echo "Lancement du chroot"
+
+montePointsPourChroot() {
+	sudo echo -ne "mounting pseudo filesystems:"
+	for pseudo in dev dev/pts proc sys
+	do
+		sudo mount --bind /$pseudo  $root_dir/$pseudo
+		echo -ne " $pseudo"
+	done
+	echo ""
+}
+
+demontePointsPourChroot() {
+	echo -ne "unmounting pseudo filesystems:"
+	for pseudo in dev/pts proc sys dev
+	do
+		sudo umount -l $root_dir/$pseudo
+		echo -ne " $pseudo"
+	done
+	echo ""
+}
+
+montePointsPourChroot
+
+sudo su -c "chroot $root_dir /install_chroot.sh"
+
+demontePointsPourChroot
