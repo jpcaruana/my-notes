@@ -1,3 +1,6 @@
+Nb: ceci est la version ancienne "à la main" : j'ai désormais des rôles ansibel pour ça.
+
+
 # Comment activer HTTPS sur un serveur
 ## Activer ssl sur apache
 ````bash
