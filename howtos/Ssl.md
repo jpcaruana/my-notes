@@ -1,4 +1,4 @@
-Nb: ceci est la version ancienne "à la main" : j'ai désormais des rôles ansibel pour ça.
+Nb: ceci est la version ancienne "à la main" : j'ai désormais des rôles ansible pour ça.
 
 
 # Comment activer HTTPS sur un serveur
