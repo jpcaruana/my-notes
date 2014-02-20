@@ -36,5 +36,5 @@ ssh root@X.Y.Z.K -p 49162
 exit
 
 # play with (well configured) ansible:)
-ansible-playbook --connection=ssh --inventory-filelocal=dockersiter.yml
+ansible-playbook --connection=ssh --inventory-file=localdocker site.yml
 ````
