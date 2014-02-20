@@ -33,6 +33,8 @@ docker0   Link encap:Ethernet  HWaddr fe:58:a0:c7:e0:dd
 
 # log in the first one
 ssh root@X.Y.Z.K -p 49162
+exit
 
 # play with (well configured) ansible:)
+ansible-playbook --connection=ssh --inventory-filelocal=dockersiter.yml
 ````
