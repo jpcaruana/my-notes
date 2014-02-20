@@ -1,4 +1,4 @@
-Installer docker.io (cf leur doc sur leur site)
+Installer docker (cf leur doc sur leur site https://www.docker.io)
 
 Le Dockerfile permet de créer un serveur de base à par d'une ubuntu/precise pour tester des scripts ansible externnes.
 
@@ -8,7 +8,7 @@ On peut se logguer avec le user root (mot de passe toto).
 # build image
 docker build -t jpcaruana/baseServer .
 
-# launch 3 servers
+# launch 3 servers (daemon mode)
 docker run -d -p 22 -t jpcaruana/baseServer -D
 docker run -d -p 22 -t jpcaruana/baseServer -D
 docker run -d -p 22 -t jpcaruana/baseServer -D
@@ -32,5 +32,7 @@ docker0   Link encap:Ethernet  HWaddr fe:58:a0:c7:e0:dd
           Octets reçus:3462293 (3.4 MB) Octets transmis:140406957 (140.4 MB)
 
 # log in the first one
-ssh root@172.17.42.1 -p 49162
+ssh root@X.Y.Z.K -p 49162
+
+# play with (well configured) ansible:)
 ````
