@@ -2,4 +2,6 @@ grep entre x et y occurence d'une série de chiffres:
 * échapper les accolades pour le nombres d'occuresces
 * pas besoin de l'option `-e`
 
-    grep "[0-9]\{x,y\}" file
+````bash
+grep "[0-9]\{x,y\}" file
+````
