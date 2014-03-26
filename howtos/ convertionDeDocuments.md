@@ -19,6 +19,7 @@ done
 ````
 
 prend 1 minute sur mon poste pour tout convertir (en 3 résolutions)
+
 21s pour la résolution maximale
 
 vignettes :
