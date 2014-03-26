@@ -1,6 +1,6 @@
 Lister les indexes:
 ````js
-db.test.getIndexes()
+db.collection.getIndexes()
 ````
 
 Mise à jour de la collection : mettre le contenu du champ `xxx` dans le champ `yyy`
