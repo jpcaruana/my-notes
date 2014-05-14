@@ -1,6 +1,6 @@
 see https://aws.amazon.com/fr/aws-summit-2014/paris/
 
-# Texte d'origine
+
 L’AWS Summit revient à Paris le 13 Mai prochain !
 
 Rejoignez-nous pour cet événement gratuit d’une journée qui vous donnera l’opportunité de découvrir les nouveaux services AWS, les meilleures pratiques du cloud, et d’échanger avec nos experts techniques et métiers AWS.

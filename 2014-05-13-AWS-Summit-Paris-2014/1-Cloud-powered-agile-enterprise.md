@@ -2,15 +2,15 @@
     Dr. Werner Vogel, Amazon CTO
 
 ## Agility
-Some companies didn't exist 4 years ago (like Dropbox, Spotify, AirBnB) and are now massive, thanks to AWS. They had a very fast growth. For instance, AirBnB now run under 1000 EC2 instances, 50 TB of data, all on AWS. They only have 5 people in operations. Everything is dedicated to deliver value to their customers, build better products.
+Some companies didn't exist 4 years ago (like Dropbox, Spotify, AirBnB) and are now massive, thanks to AWS. They had a very fast growth. For instance, AirBnB now run under 1000 EC2 instances, 50 TB of data, all on AWS. They only have 5 peoplen operations. Everything is dedicated to deliver value to their customers, build better products.
 
-Today, everyone has access to the AWS infrastructuce : the world goes flat. It's not the IT resources thast make success, but the product you build.
+Today, everyone has access to the AWS infrastructuce : the world geos flat. It's not the IT resources thast make success, but the product you build.
 
-With AWS, we remove waste (lean), everything that doesn't deliver **value to the customer**:
+With AWS, we remove waste (lean), everything that doesn't deliver value to the customer:
 * without AWS: 70% is spend in infrastucture, 30% in building product
 * with AWS: 30% is spend in infrastucture, 70% in building product
 
-Big IT projects never succeed:
+BIg IT projects never succeed:
 * inaccurate resources estimates
 * changing requirements (which is good)
 * unmanaged risk
@@ -33,28 +33,28 @@ AWS addresses uncertainity:
 ## Innovation principles at Amazon
 
 * custumer oriented, customer centric
-* long term decisions VS "wall steet market" short term decisions
+* long term decisions VS "wall steet market" short term
 * experiment and learn (and measure)
 
-They are working "*from the customer backwards*". For every new product:
+They are working *from the customer backwards". For every new product:
 * press release: "what will be delivered"
 * FAQ
 * User interraction
 * User documentation
 * Developers documentation
 
-To **increase innovation**, you have to **decrease the cost of failure** (by decreasing the cost of experimentation).
+To inscrease innovation, you dave to decrease the cost of failure (by decreasing the cost of experimentation).
 
 Iterate fast using customers feedback. In 2014, AWS launched more than 80 new servicies. 56 releases where made for Redshift since february 2013 (date of launch). Launch a product with little features and let customers define the product by adding the features they ask for.
 
 Small "2 pizzas teams" with the goal to deliver functionality to customers.
 
 ## Costs
-Reduced costs is the main reason customers come to AWS. More customers means more costs cuts (thanks to economies of scale) and costs cuts means new customers (vertuous circle). It also means new features.
+Reduced costs is the main reason customers come to AWS. More customers means costs cuts (thanks to economies of scale) and costs cuts means now customers (vertuous circle). It also means new features.
 
 Since 2006 (AWS launch), we had 43 price reductions !
 
-The tool AWS Trusted Advisor helps customers with their costs, risks and performance by auditing their AWS infrastructure.
+The tool AWS trusted Advisor helps customers with their costs, risks and performance by auditing their AWS intfrastructure.
 
 70% of CAC40 enterprises now use AWS.
 
@@ -64,7 +64,7 @@ AWS = 5x the compute capacity of all its competitors.
 * Capital becomes Opex
 * lower operational costs
 * don't need to guess capacity
-* better speed/agility (cost of failure is almost 0)
+* better speed/agility (cost of failure is alsmost 0)
 * don't spend money in dealing with servers, HD, datacenters...
 * go global in minutes
 

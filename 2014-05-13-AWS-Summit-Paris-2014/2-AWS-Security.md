@@ -12,32 +12,32 @@ Security covers several aspects:
 * platforms
 * people and procedures
 
-Tom Dodustorm, NASA JPL CTO, says that "AWS is more secure taht their own datacenters"
+Tom Dodustorm, NASA JPL CTO, says that "AWS is more secure than their own datacenters"
 
 Security is here to provide
 * more **visibility**
     * trusted advisor
     * APIs
 * more **auditability**
-    * audit made by 3rd party auditors
+    * audits made by 3rd party auditors
     * received many awards and certifications: ISO, PCI DSS...
 * more **control**
-    * fine grainde ACLs
-    * never depend on one security control
+    * fine grained ACLs
+    * never depend on *one* security control
 
-AWS CloudTrail records every API call. This can be logged to analyse, prohect (with IAM) and archive.
+AWS CloudTrail records every API call. This can be logged to analyse, protect (with IAM) and archive.
 
-AWS Staff access: "least priviledge principle"
+AWS Staff access: *least priviledge principle*
 * staff vetting (background check is run on recruitment)
 * no logical access to customer instances
-* very limited access. accesse is controles and monitored
+* very limited access. accesses are controled and monitored
 * different badges to enter data center
 * no HD may leave a data center intact: everything is destroyed
 
 ## data
 You can define what system has access to other system. For instance, you can prevent the webserver from accessing the database.
 
-Data stays in the region and te availability zone where you put it. No data is moved between regions.
+Data stays in the region and the availability zone where you put it. No data is moved between regions.
 
 AWS is:
 * 10 regions

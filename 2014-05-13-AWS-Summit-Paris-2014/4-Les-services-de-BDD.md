@@ -9,7 +9,11 @@ Quand on héberge soi-même ses données, il faut penser à tout :
 * les patchs applicatifs (montée de version de la BDD)
 * les mises à jour d'OS...
 
+Tout ce temps n'est pas consacré à apporter de la valeur à vos clients.
+
+
 Deux choix possibles avec AWS :
+
 1. installer sa BDD sur des instances EC2
 2. en mode managé : il ne reste plus qu'a écrire le logiciel qui apporte de la valeur aux clients
 
@@ -21,8 +25,8 @@ Les différents cas d'usage couverts pas AWS :
 
 ## Amazon RDS: Relational Database Service
 * simple et rapide à régler
-* MySQL, PostgreSQL, Oracle ou SQLServer
-* amazon gére les patches ,la sauvegard, la réplication
+* au choix : MySQL, PostgreSQL, Oracle ou SQLServer
+* amazon gère les patches, la sauvegarde, la réplication
 * simple et rapide à redimentionner
 
 Possibilité d'utiliser les backup pour tester le nouveau code dans un autre environnement
@@ -30,19 +34,19 @@ Possibilité d'utiliser les backup pour tester le nouveau code dans un autre env
 Choix des machines: CPU, RAM, stockage iOPS. Possibilité de migrer le hardware des instances en live sans interruption de service.
 
 Sauvegardes :
-* automatiques et conservées 35j (sans aucun coût)
-* manuelles (simple click ou API) conservées dans S3
+* automatiques et conservées 35 jours (sans aucun coût)
+* manuelles (simple clic ou API) conservées dans S3
 
 Option multi-AZ (availibility zones):
 *  meilleure disponibilité
 * meilleure durabilité
 
-Impossible de bouger les données entre le régions. Par contre, on peut copier les snapshot avec S3
+Impossible de bouger les données entre les régions. Par contre, on peut copier les snapshot avec S3
 
 Avec MySQL, il est possible de créer autant de Read Replicat pour scaler en lecture. (en 1 click au lieu de plus de 150 commandes pour le faire soi-même). Un Read Replicat peut être inter-région et peut devenir master.
 
 ## Amazon DynamoDB
-BDD clef/valeur, schémaless. Inventée avant le ternme "NoSQL"
+BDD clef/valeur, schémaless. Inventée avant le terme "NoSQL"
 
 BDD réglable à l'infini (des millions d'iOPS)
 
@@ -61,16 +65,16 @@ Possibilité d'utiliser le client AWS JS pour parler directement à DynamoDB san
 * BDD en mode colonne 10 fois plus rapide que les DBB traditionnelles.
 * Pout stocker jusqu'à 1,6 To de données compressées
 * Prix très attractif : 1000 $/an/To (si on réserve sur 3 ans) ou 3400 $/an/To quand on paye à la demande.
-* Utilisé par exemple par Foursquares, Nokia, the Financial Times.
+* Utilisé par exemple par Foursquare, Nokia, the Financial Times.
 
 Cas d'usages :
-* Data Warehouse à trés faible coût
+* Data Warehouse à très faible coût
 * Big data : analyse à grande échelle, reporting
 * Saas : analytique "temps réel"
 
 Peut être utilisé avec des outils de BI classiques.
 
-Peut être chargé à partir de fichiers CSV depuis S# mais aussi a partir de DynamoDB.
+Peut être chargé à partir de fichiers CSV depuis S3 mais aussi a partir de DynamoDB.
 
 Le stockage en colonnes permet :
 * la compression des données

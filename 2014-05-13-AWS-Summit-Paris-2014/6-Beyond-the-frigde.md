@@ -7,6 +7,7 @@ The amount of recorded data for the 1st day of a child is 70 times the size of t
 
 ## The Internet of Things
 6 areas where the Internet of Things exists :
+
 1. Science
     * see book "the fourth paradigm"
     * observation ->  theories -> models -> facts

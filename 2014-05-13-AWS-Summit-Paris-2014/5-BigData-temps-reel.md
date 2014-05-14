@@ -1,7 +1,7 @@
 # Du temps réel au Data Warehouse: capturez et analysez en temps réel vos données
     Julien Lépine, AWS Solutions Architect
 
-(arrivé en retard, trés mal placé, orateur tès speed)
+(arrivé en retard, trés mal placé, orateur très speed)
 
 ## Kinesis
 * 10 000 000 data/s en écriture
@@ -15,8 +15,7 @@ Usages :
 
 Fonctionnement : des applications (des centaines de milliers) envoient de données. Elle sont stockées en moins de 10s dans 3 availability zones différentes. Ces données sont ordonnées (idéal pour l'analyse de navigation sur un site web par exemple).
 
-
-C'est trés simple d'envoyer des données (1 PUT en moins de 10 lignes de js). C'est plus difficile pour écrire. Il y a donc une lib open source (https://github.com/awslabs/amazon-kinesis-client)
+C'est très simple d'envoyer des données (1 PUT le fait en moins de 10 lignes de js). Par contre, c'est plus difficile pour lire. Il y a donc une librairie open source pour simplifier l'accès en lecture : https://github.com/awslabs/amazon-kinesis-client
 
 vraiment pas cher d'écrire : 1 000 000 de PUT coûte 0,028$
 
@@ -26,9 +25,10 @@ Temps réel et traitement en continu.
 
 ## retour d'expérience
 bonne pratiques garder toutes les données brutes puis faire plusieurs couches aggrégées selon les usages :
+
 1. global KPI layer : BI
 2. reporting layer : rapports standards
-3. raw data layer : analyse trés fine
+3. raw data layer : analyse très fine
 
 
 ## Texte d'origine
