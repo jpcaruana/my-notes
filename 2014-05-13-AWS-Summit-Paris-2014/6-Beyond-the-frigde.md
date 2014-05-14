@@ -14,12 +14,12 @@ The amount of recorded data for the 1st day of a child is 70 times the size of t
     * 1000 human genome project
 2. Customer
     * dropcam
-    * nost
-    * Glow Cap, Glow Pack (don't forget te take your medicines)
+    * Nest
+    * Glow Cap, Glow Pack (don't forget to take your medicines)
     * DrivePlus
 3. Retail: personalize
     * recommandations by amazon
-    * Netflix: 75% watch movies made after recommandations
+    * Netflix: 75% watched movies made after recommandations
     * Bigger is Better
 4. Industrial world
     * GE gaz turbines
@@ -35,4 +35,4 @@ The amount of recorded data for the 1st day of a child is 70 times the size of t
 ## The pipeline
 collect | store | organize | analyse | share
 
-Realtime is inscreasing
+Realtime is increasing
