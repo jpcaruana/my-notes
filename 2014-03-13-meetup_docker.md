@@ -1,6 +1,6 @@
 Meetup Docker Paris http://www.meetup.com/Docker-Paris/ http://www.meetup.com/Docker-Paris/events/168190122/
 
-# Docker / SDN / aspcets réseau
+# Docker / SDN / aspects réseau
     par octo
 
 ## Docker
@@ -10,7 +10,7 @@ Meetup Docker Paris http://www.meetup.com/Docker-Paris/ http://www.meetup.com/Do
 * link des différents conteneurs entre eux, en général par variable d'environnement. Permenntre par exemple à un tomcat de parler à un MySQL
 * NAT-PAT pour exposer un port extérieur
 
-## SDN (Software Defined Network
+## SDN (Software Defined Network)
 * modèle physique différent du modèle logique : on aimerait pouvoir gérer dynamiquement l'ajout la suppression de réseaux étanches entre eux. Les équipes réseau n'ont pas cette culture.
 * avec les VLAN, on a une limite de 2048 réseaux qui est trop basse pour le cloud
 
@@ -45,14 +45,13 @@ on a toujours la limite de 2048 réseaux
 On tire des tunnels :
 * niveau 3
 * on ne parle plus de VLAN
-
 * attention au broadcast
 * chute du MTU à cause de l'encapsulation niveau 3
  *voir OpenStack Neutron : https://wiki.openstack.org/wiki/Neutron "Neutron is an OpenStack project to provide "networking as a service" between interface devices (e.g., vNICs) managed by other Openstack services (e.g., nova)."
 * nécessité d'avoir des routeurs SDN sur les machines physiques
 
 ## Docker + SDN
-* supprimer le bride de docker (option n=false)
+* supprimer le bridge de docker (option n=false)
     * trop simpliste
     * un seul par host
 * ne pas attacher les conteneurs au bridge
