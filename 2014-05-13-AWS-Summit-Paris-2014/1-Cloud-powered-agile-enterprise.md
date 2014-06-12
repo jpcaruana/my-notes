@@ -1,6 +1,13 @@
 # Cloud powered agile entreprise
     Dr. Werner Vogel, Amazon CTO
-
+    
+- [Cloud powered agile entreprise](#user-content-cloud-powered-agile-entreprise)
+	- [Agility](#user-content-agility)
+	- [Innovation principles at Amazon](#user-content-innovation-principles-at-amazon)
+	- [Costs](#user-content-costs)
+	- [Benefits of Cloud](#user-content-benefits-of-cloud)
+	- [Some customers feedback](#user-content-some-customers-feedback)
+	
 ## Agility
 Some companies didn't exist 4 years ago (like Dropbox, Spotify, AirBnB) and are now massive, thanks to AWS. They had a very fast growth. For instance, AirBnB now run under 1000 EC2 instances, 50 TB of data, all on AWS. They only have 5 peoplen operations. Everything is dedicated to deliver value to their customers, build better products.
 
