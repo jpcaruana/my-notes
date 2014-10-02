@@ -10,3 +10,23 @@ $ tar --create --gzip MonDossierVolumineux | split --numeric-suffixes --bytes ${
 $ ls fichier.tgz_*
 fichier.tgz_00  fichier.tgz_01  fichier.tgz_02
 ````
+
+# Un serveur HTTP en une ligne de shell
+Pratique pour faire un mack pas cher
+
+````bash
+$ cat reponse.http
+HTTP/1.1 200 OK
+
+hello world
+
+# sur le port 12345 par exemple
+$ while [ 1 ]; do cat reponse.http | nc -4Cnl 127.0.0.1 12345; done
+
+$ curl -i http://localhost:12345/
+HTTP/1.1 200 OK
+
+hello world
+````
+
+Posté sur twitter : https://twitter.com/jpcaruana/status/517350502195949568
