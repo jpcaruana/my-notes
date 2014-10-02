@@ -20,6 +20,12 @@ $ ls fichier.tgz_*
 fichier.tgz_00  fichier.tgz_01  fichier.tgz_02
 ````
 
+Commande avec les options courtes :
+
+````bash
+$ tar cz MonDossierVolumineux | split -d -b ${fiveGigas} - fichier.tgz_
+````
+
 # Un serveur HTTP en une ligne de shell
 Pratique pour faire un mack pas cher
 
