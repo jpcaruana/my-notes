@@ -10,6 +10,8 @@ grep "[0-9]\{x,y\}" file
 # Splitter une archive trop grosse
 d'après http://stackoverflow.com/questions/1120095/split-files-using-tar-gz-zip-or-bzip2
 
+
+## Splitter 
 La limite de taille de fichiers chez Amazon S3 est de 5 Go. Il est agréable parfois de pouvoir envoyer de plus fichiers tgz, mais pour cela il faut faire un split :
 
 ````bash
@@ -25,6 +27,18 @@ Commande avec les options courtes :
 ````bash
 $ tar cz MonDossierVolumineux | split -d -b ${fiveGigas} - fichier.tgz_
 ````
+
+## Remettre ensemble 
+Options longues :
+````bash
+cat fichier.tgz_* | tar --extract --gzip
+````
+
+Options courtes :
+````bash
+cat fichier.tgz_* | tar xz
+````
+
 
 # Un serveur HTTP en une ligne de shell
 Pratique pour faire un mack pas cher
