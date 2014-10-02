@@ -41,7 +41,7 @@ cat fichier.tgz_* | tar xz
 
 
 # Un serveur HTTP en une ligne de shell
-Pratique pour faire un mack pas cher
+Pratique pour faire un mock HTTP pour pas cher
 
 ````bash
 $ cat reponse.http
