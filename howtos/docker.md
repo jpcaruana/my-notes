@@ -1,6 +1,6 @@
 # Installer son propre registry docker sur Google Cloud avec stockage sur Google Cloud Storage
 
-(une fois qu'on a un compte Google Cloud)
+(une fois qu'on a un compte Google Cloud et l'outil `gcloud` installé et configuré qui marche)
 
 ## Créer un bucker dédié
 
@@ -8,7 +8,7 @@ Depuis l'IHM, par exemple `mon_docker` (car le nom de bucket `docker` est interd
 
 ## Créer une instance de VM
 
-On utilise l'image de base de Google pour jouer avec Docker. Il est pré-installé avec Kubernetes
+On utilise l'image de base de Google pour jouer avec Docker. Il est pré-installé avec Kubernetes.
 
 ````bash
 gcloud compute instances create dockerregistry \
