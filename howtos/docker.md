@@ -1,6 +1,6 @@
 # Installer son propre registry docker sur Google Cloud avec stockage sur Google Cloud Storage
 
-(une fois qu'on a un compte Google Cloud et l'outil `gcloud` installé et configuré qui marche)
+(une fois qu'on a un compte Google Cloud)
 
 ## Créer un bucker dédié
 
@@ -8,7 +8,7 @@ Depuis l'IHM, par exemple `mon_docker` (car le nom de bucket `docker` est interd
 
 ## Créer une instance de VM
 
-On utilise l'image de base de Google pour jouer avec Docker. Il est pré-installé avec Kubernetes.
+On utilise l'image de base de Google pour jouer avec Docker. Il est pré-installé avec Kubernetes
 
 ````bash
 gcloud compute instances create dockerregistry \
@@ -65,6 +65,16 @@ adbc655fec5a        google/cadvisor:latest          "/usr/bin/cadvisor"   43 min
 docker tag groupe/image mon-ip:80/groupe/image
 docker push mon-ip:80/groupe/image   # là aussi ça prend un peu de temps...
 ````
+
+Ensuite, on constate bien que le registry est créé :
+
+````bash
+$ gsutil ls gs://mon_docker/containers
+gs://mon_docker/containers/images/
+gs://mon_docker/containers/repositories/
+````
+
+On peut couper la VM pendant qu'on ne s'en sert pas et le registry est toujours présent/persistent.
 
 ## Liens
 * https://registry.hub.docker.com/u/google/docker-registry/
