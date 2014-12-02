@@ -33,7 +33,7 @@ gcloud compute ssh --zone europe-west1-b dockerregistry
 
 Ensuite
 
-Créer le fichier /var/registry-params.env (avec sudo) avec le contenu suivant :
+Créer le fichier `/var/registry-params.env` (avec sudo) avec le contenu suivant :
 
 ````
 GCP_OAUTH2_REFRESH_TOKEN=your-refresh-token
