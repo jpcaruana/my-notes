@@ -1,3 +1,9 @@
+
+# Générer une image des dépendances entre les images
+````bash
+docker images -viz | dot -Tpng -o docker.png
+````
+
 # Installer son propre registry docker sur Google Cloud avec stockage sur Google Cloud Storage
 
 (une fois qu'on a un compte Google Cloud)
@@ -81,9 +87,3 @@ On peut couper la VM pendant qu'on ne s'en sert pas et le registry est toujours 
 * http://docs.docker.com/installation/google/
 * https://cloud.google.com/compute/docs/containers/container_vms
 * http://docs.docker.com/userguide/dockerrepos/#pushing-a-repository-to-docker-hub
-
-
-# Générer une image des dépendances entre les images
-````bash
-docker images -viz | dot -Tpng -o docker.png
-````
