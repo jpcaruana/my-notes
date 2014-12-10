@@ -17,7 +17,7 @@ With AWS, we remove waste (lean), everything that doesn't deliver value to the c
 * without AWS: 70% is spend in infrastucture, 30% in building product
 * with AWS: 30% is spend in infrastucture, 70% in building product
 
-BIg IT projects never succeed:
+Big IT projects never succeed:
 * inaccurate resources estimates
 * changing requirements (which is good)
 * unmanaged risk
