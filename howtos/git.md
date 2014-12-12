@@ -1,7 +1,9 @@
+# message relou "Compression automatique du dépôt en tâche de fond"
+
 A chaque `git fetch` ou `git pull --rebase`, j'avais un message agaçant, même quand il n'y avait rien à faire :
 
 ````bash
-$ igt pull --rebase
+$ git pull --rebase
 Compression automatique du dépôt en tâche de fond pour optimiser les performances.
 Voir "git help gc" pour toute information sur le nettoyage manuel.
 Already up-to-date.
@@ -9,7 +11,7 @@ Already up-to-date.
 
 Super énervant.
 
-J'ai tenté des `git gc`, `git gc --auto` et des `git gc --aggressive`, rien n'y faisait.
+J'ai tenté des `git gc`, `git gc --auto` et des `git gc --aggressive`, rien n'y faisait, toujours ce même message.
 
 Après [recherche](http://stackoverflow.com/questions/7392155/why-does-git-run-git-gc-auto-on-every-merge), j'ai trouvé la réponse :
 
