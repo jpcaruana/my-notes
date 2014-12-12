@@ -1,6 +1,7 @@
 A chaque `git fetch` ou `git pull --rebase`, j'avais un message agaçant, même quand il n'y avait rien à faire :
 
 ````bash
+$ igt pull --rebase
 Compression automatique du dépôt en tâche de fond pour optimiser les performances.
 Voir "git help gc" pour toute information sur le nettoyage manuel.
 Already up-to-date.
