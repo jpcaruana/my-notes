@@ -20,7 +20,7 @@ On y parlera d'auto-cencure, du coût de la gratuité et de GAFA.
 
 ### Intro
 
-Known is the fisrt startup thaht emerged from the indie web movement.
+Known is the fisrt startup that emerged from the indie web movement. Cofonded with [Erin Jo Richey](http://erinjorichey.com/), UX guru.
 
 Known tries to answer to the problem :
 
@@ -62,3 +62,10 @@ The business model is the same as wordpress.com : open source everything, make p
 - [indieauth](https://indieauth.com/)
     - example with instagram : [ownyourgram](http://ownyourgram.com/)
 - [micropub](https://indiewebcamp.com/Micropub)
+
+### Exemples donnés en live
+- des posts
+    - http://werd.io/2014/getting-things-started-nitot-discusses-a-book-about-decentralization-at
+    - http://werd.io/2014/san-francisco-mozilla-paris-has-upped-the-bar-considerably
+- avec twitter : http://werd.io/2014/im-demoing-known-27
+- avec instagram : http://werd.io/2014/untitled-34
