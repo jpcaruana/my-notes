@@ -5,16 +5,16 @@ http://www.meetup.com/Paris-Meetup-pour-la-decentralisation-dInternet/events/218
 ## Tristant Nitot écrit un livre sur le sujet
 Tristant Nitot écrit un livre sur la décentralisation d'Internet et nous a présenté son plan histoire d'avoir du feedback. Cela a déclenché pas mal de discussions intérressantes mais qui ont un peu retardé la suite.
 
-Le titre de travail (temporaire) est **Flicage sur interne** histoire d'avoir un titre accrocheur eh de bien marquer les esprits. Le plan s'articule en trois parties :
+Le titre de travail (temporaire) est **Flicage sur interne** histoire d'avoir un titre accrocheur et de bien marquer les esprits. Le plan s'articule en trois parties :
 
 - les dangers
 - le contexte
 - les solutions
 
-On y parlera d'auto-cencure, du coût de la gratuité.
+On y parlera d'auto-cencure, du coût de la gratuité et de GAFA. 
 
 ## Introduction à IndieWebCamp et Known, par son fondateur Ben Werdmüller
-- Ben Werdmüller : http://www.werd.io/ (tourne sous known)
+- Ben Werdmüller : http://www.werd.io/ (tourne sous... known)
 - known : https://withknown.com/
 - indie web : https://indiewebcamp.com/
 
@@ -24,10 +24,10 @@ Known is the fisrt startup thaht emerged from the indie web movement.
 
 Known tries to answer to the problem :
 
-- we all live in onlive silos (google, fb, twitter, flickr etc)
-- they all provide beautiful, well designed and easy to use apps
+- we all live in online silos (google, fb, twitter, flickr etc...)
+- they all provide beautiful, well designed and easy to use apps (so it's easy for people to use etc)
 
-Known is a beautiful app that syncs your content back to the silo you want. It connects sites together.
+Known is a beautiful app that syncs your content back to the silo(s) you want. It connects sites together. But you still own your data.
 
 Known was founded by [Matter](http://matter.vc/) in San Francisco.
 
@@ -54,7 +54,7 @@ Technology used is very **simple** :
 
 Builds a **decentralized** social web. You always **own** your interractions and each participant has a copy.
 
-Tons of [plugins](https://github.com/idno) : wordpress, p3k...
+Tons of [plugins](https://github.com/idno) : wordpress, [p3k](https://indiewebcamp.com/p3k...
 
 The business model is the same as wordpress.com : open source everything, make people pay for support or hosting.
 
