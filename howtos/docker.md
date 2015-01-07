@@ -8,7 +8,7 @@ docker images -viz | dot -Tpng -o docker.png
 
 (une fois qu'on a un compte Google Cloud)
 
-## Créer un bucker dédié
+## Créer un bucket dédié
 
 Depuis l'IHM, par exemple `mon_docker` (car le nom de bucket `docker` est interdit/déja pris)
 
