@@ -2,6 +2,8 @@ http://www.oxalide.com/2014/12/teaser-video-aperotech-oxalide/
 
 # Oxalide - Apéra Tech #10 : Big Data
 
+synthèse : http://www.oxalide.com/wp-content/uploads/2015/01/Oxalide_Aperotech_BigData.pdf
+
 ## Introduction
 * a lieu tous les 3 mois
 * parle de business, de fonctionnel et de technique
