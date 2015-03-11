@@ -7,6 +7,11 @@ http://www.parisjug.org/xwiki/bin/view/Meeting/20150310
     http://www.parisjug.org/xwiki/bin/view/Speaker/HugoCordier
     https://github.com/Melusyn/ReactiveX-examples
 
+### Promesse de la session
+RxJava permet de développer sur la JVM des applications orientées évènements. Cette librairie permet de composer des flux de données de manière simple sans bloquer et sans se soucier de la gestion des threads.
+
+Nous utilisons Rx chaque jour chez Melusyn depuis plus d'un an, en Java et en Groovy. Le but de cette présentation est d'expliquer les concepts des Reactive Extensions, et de montrer en quoi RxJava permet de développer simplement des applications asynchrones sur la JVM. 
+
 ### Callback et Futures
 En java, il existe 2 façons de faire de l'asynchrone. Elles ont chacune leurs limites :
 
@@ -84,6 +89,53 @@ Rx a été implémenté dans de nombreux autres langages. Du coup une communaut�
 
 - ReactiveX: http://reactivex.io/
 - The Reactive Manifesto: http://www.reactivemanifesto.org/
+- 
+### Mon ressenti
+Très bon intervenant. SUjet passionnant que je suis déjà depuis quelques temps (parce que j'utilise Hystrix de NetFlix).
 
 ## Kafka
-TODO
+    Jonathan Winandy, co-­fondateur  Valwin - @ahoy_jon
+    http://www.parisjug.org/xwiki/bin/view/Speaker/JonathanWinandy
+
+### Promesse de la session
+Kafka est un système de messages distribué très performant (faible latence, très forte volumétrie) et il est de plus en plus utilisé en production comme un bus de service “Big Data”.
+
+Après une présentation technique de la technologie, nous allons voir les particularités architecturales de Kafka par rapport à RabbitMq et comment on peut utiliser Kafka pour simplifier la gestion de données à l’échelle. 
+
+### Théorie
+(trop rapide ou alors inutile)
+
+Les Streams : notion essentielle pour comprendre Kafka. Les Streams permettent 2 opérations: 
+
+- *append* (écrire)
+- *readAt* (lire). Une fois qu'une information a été lue à un endroit, cette information sera toujours disponible à cet endroit.
+
+### Histoire
+LinkedIn avait de nembreux systèmes qui produisent beaucoup de données, d'états. Ce système était très complexe et il devenait difficile de maintenir un état dans tous les systèmes. C'est ainsi qu'est apparue la nécessité d'avoir un **journal des événements**.
+
+Cependant, c'est assez difficile d'avoir un *stream* (au sens théorique vu au dessus) dans un système distribué pour les raisons classiques dans ces environnements :
+
+- perte de message
+- délai
+- duplicats
+- non respect de l'ordre
+
+Voir à ce sujet la vidéo de Peter Alvaro ["Outwards from the middle of the maze"](https://www.youtube.com/watch?v=ggCffvKEJmQ&list=PL9Jh2HsAWHxLco7V1SjU9hUzP53CBZOYO) (et un [petit résumé](http://basho.com/peter-alvaro-outwards-from-the-middle-of-the-maze/) par Basho)
+
+Pour un tel système, on recherche **l'idem potence**, sinon le comprtoment est totalement imprévisible.
+
+### Anatomie de Kafka
+Pour 1 topic, on peut avoir plusieurs partitions.
+
+Kafka fonctionne avec ZooKeeper. Pour faire un publish, on parle d'abord à ZooKeeper avant de pouvoir parle à un broker.
+
+Le producteur utilise un clef de partition au moment où le message est poussé dans Kafka. Cela permet d'avoir tous les messages d'un même contexte (ex: un utilisateur) sur un même serveur. (*cela m'a fait penser à Cassandra*)
+
+Les consommateurs ont un état local non distribué.
+
+### Mon ressenti
+Intervention un peu foireuse (avec en plus le pas de chance pour l'effet démo/Bonaldi) qui ne ma pas convaincu.
+
+Ce que j'en ai compris: Kafka n'est pas un bus de données (malgré ce qui est dit partout), mais un gros journal distribué. EN général, on garde au moins 6 mois de données sur Kafka. Ce n'est donc pas un produit pour mon besoin actuel, mais c'est intéressant comme concept.
+
+N'a pas parlé de RabbitMq malgré la promesse.
