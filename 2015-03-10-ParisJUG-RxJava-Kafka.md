@@ -89,9 +89,9 @@ Rx a été implémenté dans de nombreux autres langages. Du coup une communaut�
 
 - ReactiveX: http://reactivex.io/
 - The Reactive Manifesto: http://www.reactivemanifesto.org/
-- 
+
 ### Mon ressenti
-Très bon intervenant. SUjet passionnant que je suis déjà depuis quelques temps (parce que j'utilise Hystrix de NetFlix).
+Très bon intervenant. Sujet passionnant que je suis déjà depuis quelques temps (parce que j'utilise Hystrix de NetFlix).
 
 ## Kafka
     Jonathan Winandy, co-­fondateur  Valwin - @ahoy_jon
@@ -103,8 +103,6 @@ Kafka est un système de messages distribué très performant (faible latence, t
 Après une présentation technique de la technologie, nous allons voir les particularités architecturales de Kafka par rapport à RabbitMq et comment on peut utiliser Kafka pour simplifier la gestion de données à l’échelle. 
 
 ### Théorie
-(trop rapide ou alors inutile)
-
 Les Streams : notion essentielle pour comprendre Kafka. Les Streams permettent 2 opérations: 
 
 - *append* (écrire)
@@ -127,7 +125,7 @@ Pour un tel système, on recherche **l'idem potence**, sinon le comprtoment est 
 ### Anatomie de Kafka
 Pour 1 topic, on peut avoir plusieurs partitions.
 
-Kafka fonctionne avec ZooKeeper. Pour faire un publish, on parle d'abord à ZooKeeper avant de pouvoir parle à un broker.
+Kafka fonctionne avec ZooKeeper. Pour faire un publish, on parle d'abord à ZooKeeper avant de pouvoir parler à un broker.
 
 Le producteur utilise un clef de partition au moment où le message est poussé dans Kafka. Cela permet d'avoir tous les messages d'un même contexte (ex: un utilisateur) sur un même serveur. (*cela m'a fait penser à Cassandra*)
 
@@ -136,6 +134,6 @@ Les consommateurs ont un état local non distribué.
 ### Mon ressenti
 Intervention un peu foireuse (avec en plus le pas de chance pour l'effet démo/Bonaldi) qui ne ma pas convaincu.
 
-Ce que j'en ai compris: Kafka n'est pas un bus de données (malgré ce qui est dit partout), mais un gros journal distribué. EN général, on garde au moins 6 mois de données sur Kafka. Ce n'est donc pas un produit pour mon besoin actuel, mais c'est intéressant comme concept.
+Ce que j'en ai compris: Kafka n'est pas un bus de données (malgré ce qui est dit partout), mais un gros journal distribué. En général, on garde au moins 6 mois de données sur Kafka. Ce n'est donc pas un produit pour mon besoin actuel, mais c'est intéressant comme concept.
 
-N'a pas parlé de RabbitMq malgré la promesse.
+N'a pas parlé de RabbitMq malgré la promesse, ce qui a rendu la compréhension assez difficile.
