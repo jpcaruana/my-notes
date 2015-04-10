@@ -39,7 +39,7 @@ Il y a 3 methodes pour réagir au événements une fois qu'on a souscrit :
 
 - *onNext*
 - *onError*
-- onCo*mpleted (peu utilisé)
+- *onCompleted* (peu utilisé)
 
 ### Transformer les données avec les opérateurs
 Un Opérateur prend en argument un Observable et retourne un Observable. C'est une fonction de transformation
