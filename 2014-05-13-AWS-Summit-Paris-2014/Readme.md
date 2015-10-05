@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Werner Vogels, Chief Technology Officer, Amazon.com](#werner-vogels-chief-technology-officer-amazoncom)
+- [Stephen E. Schmidt, Directeur de la sécurité, Amazon Web Services](#stephen-e-schmidt-directeur-de-la-s%C3%A9curit%C3%A9-amazon-web-services)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 see https://aws.amazon.com/fr/aws-summit-2014/paris/
 
 

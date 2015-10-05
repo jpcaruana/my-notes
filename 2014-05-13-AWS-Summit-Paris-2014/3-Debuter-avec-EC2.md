@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Votre première semaine avec AWS : Amazon EC2](#votre-premi%C3%A8re-semaine-avec-aws--amazon-ec2)
+  - [EC2](#ec2)
+  - [Pourquoi EC2 ?](#pourquoi-ec2-)
+  - [Texte d'origine](#texte-dorigine)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 #Votre première semaine avec AWS : Amazon EC2
     Sébastien Stormacq, AWS Senior Technical Trainer
 

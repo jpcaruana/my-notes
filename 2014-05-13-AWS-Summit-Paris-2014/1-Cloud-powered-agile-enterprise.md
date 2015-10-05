@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Cloud powered agile entreprise](#cloud-powered-agile-entreprise)
+  - [Agility](#agility)
+  - [Innovation principles at Amazon](#innovation-principles-at-amazon)
+  - [Costs](#costs)
+  - [Benefits of Cloud](#benefits-of-cloud)
+  - [Some customers feedback](#some-customers-feedback)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Cloud powered agile entreprise
     Dr. Werner Vogel, Amazon CTO
     

@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Générer une image des dépendances entre les images](#g%C3%A9n%C3%A9rer-une-image-des-d%C3%A9pendances-entre-les-images)
+- [Installer son propre registry docker sur Google Cloud avec stockage sur Google Cloud Storage](#installer-son-propre-registry-docker-sur-google-cloud-avec-stockage-sur-google-cloud-storage)
+  - [Créer un bucket dédié](#cr%C3%A9er-un-bucket-d%C3%A9di%C3%A9)
+  - [Créer une instance de VM](#cr%C3%A9er-une-instance-de-vm)
+- [lancer le registry](#lancer-le-registry)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Générer une image des dépendances entre les images
 ````bash

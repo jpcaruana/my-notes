@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Paris Meetup pour la décentralisation d'Internet #4](#paris-meetup-pour-la-d%C3%A9centralisation-dinternet-4)
+  - [Tristant Nitot écrit un livre sur le sujet](#tristant-nitot-%C3%A9crit-un-livre-sur-le-sujet)
+  - [Introduction à IndieWebCamp et Known, par son fondateur Ben Werdmüller](#introduction-%C3%A0-indiewebcamp-et-known-par-son-fondateur-ben-werdm%C3%BCller)
+    - [Intro](#intro)
+    - [Indie Web](#indie-web)
+    - [Technology](#technology)
+    - [A voir aussi](#a-voir-aussi)
+    - [Exemples donnés en live](#exemples-donn%C3%A9s-en-live)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 http://www.meetup.com/Paris-Meetup-pour-la-decentralisation-dInternet/events/218943348/ 
 
 #Paris Meetup pour la décentralisation d'Internet #4

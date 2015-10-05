@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DynamoDB, comment ça marche ?](#dynamodb-comment-%C3%A7a-marche-)
+  - [Principes généraux](#principes-g%C3%A9n%C3%A9raux)
+    - [Les indexes](#les-indexes)
+    - [API](#api)
+      - [en lecture](#en-lecture)
+      - [en écriture](#en-%C3%A9criture)
+  - [Comment modéliser les données ?](#comment-mod%C3%A9liser-les-donn%C3%A9es-)
+  - [Conseils](#conseils)
+  - [liens](#liens)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # DynamoDB, comment ça marche ?
 Amazon a publié un SDK Java qui permet d’interagir avec tous les services AWS, y compris DynamoDB.
 

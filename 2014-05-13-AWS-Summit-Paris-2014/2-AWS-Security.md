@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [AWS Security](#aws-security)
+  - [Security](#security)
+  - [data](#data)
+  - [Encryption](#encryption)
+  - [Some customers feedback](#some-customers-feedback)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # AWS Security
     Steven Schmidt, Amazon head of Security
 

@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Mettre sa machine Linux en hibernation depuis la ligne de commande](#mettre-sa-machine-linux-en-hibernation-depuis-la-ligne-de-commande)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Mettre sa machine Linux en hibernation depuis la ligne de commande
 
 La commande à lancer est la suivante :

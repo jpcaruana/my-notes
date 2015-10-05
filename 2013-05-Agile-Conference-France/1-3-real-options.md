@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Real options : quand et comment (ne pas) prendre des décisions](#real-options--quand-et-comment-ne-pas-prendre-des-d%C3%A9cisions)
+  - [1. Cost of delay](#1-cost-of-delay)
+  - [2. Creative process](#2-creative-process)
+  - [3. Real options optimal decision process](#3-real-options-optimal-decision-process)
+  - [4. Set-based design](#4-set-based-design)
+  - [5. Sunk-cost fallacy](#5-sunk-cost-fallacy)
+  - [](#)
+  - [----](#----)
+  - [Texte de présentation](#texte-de-pr%C3%A9sentation)
+    - [Compléments](#compl%C3%A9ments)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Real options : quand et comment (ne pas) prendre des décisions
     Pascal van Cauwenberghe
     références : fr.wikipedia.org/wiki/Analyse_par_les_options_r%C3%A9elles

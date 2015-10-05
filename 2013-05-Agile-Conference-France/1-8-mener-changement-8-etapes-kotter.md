@@ -1,3 +1,24 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Mener le changement - les 8 étapes de Kotter](#mener-le-changement---les-8-%C3%A9tapes-de-kotter)
+  - [1. Créer/susciter un *sentiment* d'urgence](#1-cr%C3%A9ersusciter-un-sentiment-durgence)
+  - [2. Établir une coalition puissante](#2-%C3%A9tablir-une-coalition-puissante)
+  - [3. Établir une vision et une stratégie](#3-%C3%A9tablir-une-vision-et-une-strat%C3%A9gie)
+  - [4. Communiquer la vision](#4-communiquer-la-vision)
+  - [5. Donner un large pouvoir de changement à *chaque* employé](#5-donner-un-large-pouvoir-de-changement-%C3%A0-chaque-employ%C3%A9)
+  - [6. Générer des réussites à court terme](#6-g%C3%A9n%C3%A9rer-des-r%C3%A9ussites-%C3%A0-court-terme)
+  - [7. Consolider les gains et produire plus de changement](#7-consolider-les-gains-et-produire-plus-de-changement)
+  - [8. Ancrer ces changements dans la culture de l'entreprise](#8-ancrer-ces-changements-dans-la-culture-de-lentreprise)
+  - [Comment aborder les 8 étapes](#comment-aborder-les-8-%C3%A9tapes)
+  - [](#)
+  - [----](#----)
+  - [Texte de présentation](#texte-de-pr%C3%A9sentation)
+    - [Compléments](#compl%C3%A9ments)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Mener le changement - les 8 étapes de Kotter
     Guillaume Duquesnay
     références : "Our Iceberg is Melting: Changing and Succeeding Under Any Conditions", par John Kotter

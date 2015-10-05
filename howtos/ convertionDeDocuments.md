@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Convertir à l'aide de LibreOffice --> PDF](#convertir-%C3%A0-laide-de-libreoffice----pdf)
+- [Convertir depuis un PDF en JPG](#convertir-depuis-un-pdf-en-jpg)
+  - [image magick](#image-magick)
+  - [ghostscript](#ghostscript)
+    - [Split d'un PDF en fichiers PNG](#split-dun-pdf-en-fichiers-png)
+    - [Split d'un PDF en fichiers PDF (un par page)](#split-dun-pdf-en-fichiers-pdf-un-par-page)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 #Convertir à l'aide de LibreOffice --> PDF
 
 ````bash

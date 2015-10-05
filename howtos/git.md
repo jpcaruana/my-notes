@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [message relou "Compression automatique du dépôt en tâche de fond"](#message-relou-compression-automatique-du-d%C3%A9p%C3%B4t-en-t%C3%A2che-de-fond)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # message relou "Compression automatique du dépôt en tâche de fond"
 
 A chaque `git fetch` ou `git pull --rebase`, j'avais un message agaçant, même quand il n'y avait rien à faire :

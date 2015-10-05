@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [License](#license)
+  - [1. Definitions](#1-definitions)
+  - [2. Fair Dealing Rights](#2-fair-dealing-rights)
+  - [3. License Grant](#3-license-grant)
+  - [4. Restrictions](#4-restrictions)
+  - [5. Representations, Warranties and Disclaimer](#5-representations-warranties-and-disclaimer)
+  - [6. Limitation on Liability](#6-limitation-on-liability)
+  - [7. Termination](#7-termination)
+  - [8. Miscellaneous](#8-miscellaneous)
+- [Creative Commons Notice](#creative-commons-notice)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 Licence : Attribution - Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
 
 http://creativecommons.org/licenses/by-nc/3.0/

@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [grep](#grep)
+  - [grep entre `x` et `y` occurences d'une série de chiffres:](#grep-entre-x-et-y-occurences-dune-s%C3%A9rie-de-chiffres)
+- [Splitter une archive trop grosse](#splitter-une-archive-trop-grosse)
+  - [Splitter](#splitter)
+  - [Remettre ensemble](#remettre-ensemble)
+- [Un serveur HTTP en une ligne de shell](#un-serveur-http-en-une-ligne-de-shell)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # grep
 ## grep entre `x` et `y` occurences d'une série de chiffres:
 * échapper les accolades pour le nombres d'occurences

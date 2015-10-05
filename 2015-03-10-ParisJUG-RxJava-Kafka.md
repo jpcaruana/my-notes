@@ -1,3 +1,30 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Paris JUG: Soirée RxJava et Kafka](#paris-jug-soir%C3%A9e-rxjava-et-kafka)
+  - [RxJava](#rxjava)
+    - [Promesse de la session](#promesse-de-la-session)
+    - [Callback et Futures](#callback-et-futures)
+    - [Origine](#origine)
+    - [Observable](#observable)
+    - [Souscrire à un observable](#souscrire-%C3%A0-un-observable)
+    - [Transformer les données avec les opérateurs](#transformer-les-donn%C3%A9es-avec-les-op%C3%A9rateurs)
+    - [Gestion des erreurs](#gestion-des-erreurs)
+    - [Hot and cold](#hot-and-cold)
+    - [Back pressure](#back-pressure)
+    - [Scheduler](#scheduler)
+    - [Aller plus loin](#aller-plus-loin)
+    - [Mon ressenti](#mon-ressenti)
+  - [Kafka](#kafka)
+    - [Promesse de la session](#promesse-de-la-session-1)
+    - [Théorie](#th%C3%A9orie)
+    - [Histoire](#histoire)
+    - [Anatomie de Kafka](#anatomie-de-kafka)
+    - [Mon ressenti](#mon-ressenti-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 http://www.parisjug.org/xwiki/bin/view/Meeting/20150310
 
 #Paris JUG: Soirée RxJava et Kafka

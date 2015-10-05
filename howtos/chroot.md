@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Création d'une chroot](#cr%C3%A9ation-dune-chroot)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Création d'une chroot
 ````bash
 sudo debootstrap oneiric dossier_chroot

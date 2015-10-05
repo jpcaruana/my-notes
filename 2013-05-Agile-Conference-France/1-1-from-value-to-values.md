@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [From value to values : why management has to change and how IT is inspiring the solution](#from-value-to-values--why-management-has-to-change-and-how-it-is-inspiring-the-solution)
+  - [Why is management failing ?](#why-is-management-failing-)
+  - [How agile management works ?](#how-agile-management-works-)
+  - [Better ways to make (customer visible) value](#better-ways-to-make-customer-visible-value)
+  - [Stoos](#stoos)
+  - [](#)
+  - [----](#----)
+  - [Texte de présentation](#texte-de-pr%C3%A9sentation)
+    - [A propos de Peter Stevens](#a-propos-de-peter-stevens)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # From value to values : why management has to change and how IT is inspiring the solution
     Peter Stevens (@peterstev)
     références : http://www.stoosnetwork.org

@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Beyond the Fridge, The World of Connected Data](#beyond-the-fridge-the-world-of-connected-data)
+  - [The Internet of Things](#the-internet-of-things)
+  - [The pipeline](#the-pipeline)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Beyond the Fridge, The World of Connected Data
     Dr. Werner Vogel, Amazon CTO
 

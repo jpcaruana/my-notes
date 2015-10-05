@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Du temps réel au Data Warehouse: capturez et analysez en temps réel vos données](#du-temps-r%C3%A9el-au-data-warehouse-capturez-et-analysez-en-temps-r%C3%A9el-vos-donn%C3%A9es)
+  - [Kinesis](#kinesis)
+  - [retour d'expérience](#retour-dexp%C3%A9rience)
+  - [Texte d'origine](#texte-dorigine)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Du temps réel au Data Warehouse: capturez et analysez en temps réel vos données
     Julien Lépine, AWS Solutions Architect
 

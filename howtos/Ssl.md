@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Comment activer HTTPS sur un serveur](#comment-activer-https-sur-un-serveur)
+  - [Activer ssl sur apache](#activer-ssl-sur-apache)
+  - [Copie des clefs publique/privée](#copie-des-clefs-publiquepriv%C3%A9e)
+  - [Configurer les virtualhost dans apache](#configurer-les-virtualhost-dans-apache)
+  - [Ouvrir le port dans IP Tables](#ouvrir-le-port-dans-ip-tables)
+- [Comment créer une clef privée et une demande de certificat](#comment-cr%C3%A9er-une-clef-priv%C3%A9e-et-une-demande-de-certificat)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 Nb: ceci est la version ancienne "à la main" : j'ai désormais des rôles ansible pour ça.
 
 

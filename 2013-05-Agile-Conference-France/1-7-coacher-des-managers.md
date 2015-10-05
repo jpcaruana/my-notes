@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Coacher des managers](#coacher-des-managers)
+  - [2. Définir la performance](#2-d%C3%A9finir-la-performance)
+  - [3. Aller voir (chez les développeurs)](#3-aller-voir-chez-les-d%C3%A9veloppeurs)
+  - [](#)
+  - [----](#----)
+  - [Texte de présentation](#texte-de-pr%C3%A9sentation)
+    - [A propos d'Antoine Contal](#a-propos-dantoine-contal)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Coacher des managers
     Antoine Contal
     références : livre "La pratique du lean management dans l’IT" par Marie-Pia Ignace, Christian Ignace, Régis Medina et Antoine Contal

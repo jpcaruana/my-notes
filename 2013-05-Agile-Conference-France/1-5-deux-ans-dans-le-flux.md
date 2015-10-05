@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Deux ans dans le flux](#deux-ans-dans-le-flux)
+- [Retour d'expérience](#retour-dexp%C3%A9rience)
+  - [](#)
+  - [----](#----)
+  - [Texte de présentation](#texte-de-pr%C3%A9sentation)
+    - [Compléments](#compl%C3%A9ments)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Deux ans dans le flux
     Olivier Azeau @oaz
     agilitateur.azeau.com

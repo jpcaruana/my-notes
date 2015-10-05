@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Votre deuxième semaine avec AWS : services de bases de données](#votre-deuxi%C3%A8me-semaine-avec-aws--services-de-bases-de-donn%C3%A9es)
+  - [Pourquoi un base de données en mode hébergé ?](#pourquoi-un-base-de-donn%C3%A9es-en-mode-h%C3%A9berg%C3%A9-)
+  - [Amazon RDS: Relational Database Service](#amazon-rds-relational-database-service)
+  - [Amazon DynamoDB](#amazon-dynamodb)
+  - [Amazon Redshift](#amazon-redshift)
+  - [Texte d'origine](#texte-dorigine)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Votre deuxième semaine avec AWS : services de bases de données
     David De Santiago, AWS Business Development Manager (sous coke)
 

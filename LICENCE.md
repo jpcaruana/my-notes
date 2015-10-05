@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Licence](#licence)
+  - [1. Définitions](#1-d%C3%A9finitions)
+  - [2. Exceptions et limitations aux droits exclusifs](#2-exceptions-et-limitations-aux-droits-exclusifs)
+  - [3. Étendue de l’autorisation](#3-%C3%A9tendue-de-l%E2%80%99autorisation)
+  - [4. Restrictions](#4-restrictions)
+  - [5. Représentation, Garanties et Avertissement](#5-repr%C3%A9sentation-garanties-et-avertissement)
+  - [6. Limitation de responsabilité](#6-limitation-de-responsabilit%C3%A9)
+  - [7. Résiliation](#7-r%C3%A9siliation)
+  - [8. Divers](#8-divers)
+- [Avertissements de Creative Commons](#avertissements-de-creative-commons)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 Licence : Attribution - Pas d’Utilisation Commerciale 3.0 France (CC BY-NC 3.0 FR)
 
 http://creativecommons.org/licenses/by-nc/3.0/fr/

@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Une produit qui déchire, une équipe qui déchire... un leader qui déchire](#une-produit-qui-d%C3%A9chire-une-%C3%A9quipe-qui-d%C3%A9chire-un-leader-qui-d%C3%A9chire)
+  - [1. La décontraction dans l'urgence](#1-la-d%C3%A9contraction-dans-lurgence)
+  - [2. Impédance mismatch](#2-imp%C3%A9dance-mismatch)
+  - [3. Tribal leadership](#3-tribal-leadership)
+  - [4. Le flow](#4-le-flow)
+  - [5. La psychologie positive](#5-la-psychologie-positive)
+  - [Conclusion](#conclusion)
+  - [](#)
+  - [----](#----)
+  - [Texte de présentation](#texte-de-pr%C3%A9sentation)
+    - [Compléments](#compl%C3%A9ments)
+    - [A propos de David Alia](#a-propos-de-david-alia)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Une produit qui déchire, une équipe qui déchire... un leader qui déchire
     David Alia, Octo
     références : analyse transactionnelle
