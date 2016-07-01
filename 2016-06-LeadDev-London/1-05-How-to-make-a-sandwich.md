@@ -9,7 +9,7 @@ A talk about feedback.
 
 Formalised in Systems Theory. Feedback makes the difference between a simple system (input/output) and an dynamic system (with a feedback loop with a delay).
 
-### An adaptive system rely on feedback.
+### An adaptive system rely on feedback
 
 Types of feedback: 
 
@@ -19,7 +19,7 @@ Types of feedback:
 - stabilizing feedback: balancing loop. Tends towards stable goal. (ex cooperation) "limits to growth"
 - oscillating feedback: trashing loop (ex shower control, the beer game). "boom and burst". it needs a delay to settle
 
-### Timeing is everything
+### Timing is everything
 
 - small, frequent better than large and infrequent
 - delay increases "drift":
@@ -52,7 +52,7 @@ Negative reasons:
 - to control others
 - to demonstrate our superior knowledge
 
--> Question why do you offer feedback
+-> Question *why* do you offer feedback
 
 ### Feedback is a system
 
@@ -81,7 +81,7 @@ Build trust.
 
 - porpoise feedback (rewards)
     + example: training dolphins for doing tricks
-    + it si jsut kindness
+    + it is just kindness
     + offer positive specific regard
     + (assume that) everything else will self connect
     + the best way to interract with a new group
@@ -89,16 +89,16 @@ Build trust.
     + offer positive specific regard ("I noticed that...")
     + offer a growing edge
     + end up with general positive regard (establishes safety)
-- "atkins" feedback: onece you have established trust
+- "atkins" feedback: once you have established trust
     + offer a growing edge
 
 ## 4. Receiving feedback
-- Say "thank you". Ther is no step 2.
+- Say "thank you". There is no step 2.
 - think about what was positive in that feedback
 - reverse engineer the SBI
 
 ## 5. Conclusion
 - feedback affects the system
 - be honest about your own motives
-- pratice giving/receiving feedback
+- pratice giving/recieving feedback
 - always say "thank you"

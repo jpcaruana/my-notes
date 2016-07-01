@@ -7,7 +7,7 @@
 
 ## How to share and work on ideas ?
 
-How to align a team, make a shared vision ? **User stories** is a common tools, it helps to share understanding. It is a good starting point for a conversations, but it soesn't work for bigger scale problems, it doen't get real expectations. Amazon created the 14 amazon leadership principles (https://www.amazon.jobs/principles), a customer centric approach for product building.
+How to align a team, make a shared vision ? **User stories** is a common tools, it helps to share understanding. It is a good starting point for a conversation, but it doesn't work for bigger scale problems, it doesn't get real expectations. Amazon created the 14 amazon leadership principles (https://www.amazon.jobs/principles), a customer centric approach for product building.
 
 ## Working backwards from the customer
 ### 1. Mock press release

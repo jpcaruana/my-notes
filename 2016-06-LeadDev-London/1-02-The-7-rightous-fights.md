@@ -34,7 +34,7 @@ You cannot fix it later, because you have users (resistance)
 7. Accessibility: include people
     - we are all going to need it someday
     - look at your software on a small screen
-    - 8% of men are colorblond
+    - 8% of men are colorblind
     - screen reader links (with a descriptive title)
     - try to do tab browsing, without the mouse
 

@@ -40,9 +40,9 @@ Non obvious costs:
 - impact on folks you don't know
 - their sanity
 
--> everyone is replaceable. You have to imagine the world without this person. It will create a void that will be filled easily by someone else in a way that couldn't exist before.
+-> everyone is replaceable. You have to imagine the world without this person. It will create a void that will be easily filled by someone else in a way that couldn't exist before.
 
--> say the hard things as soone as possible, don't let them rot.
+-> say the hard things as soon as possible, don't let them rot.
 
 ## You probably will hire someone like you
 
@@ -64,10 +64,10 @@ When doing an interview, ask/look the candidate for:
 - execution:
     + strategy: the way to the vision (a picture)
     + execution: how to achieve the vision
-- judgement: does he have a good judgement ? How does he apply their values in their work ?
+- judgement: does he have a good judgement ? How do they apply their values in their work ?
 
 -> delegate as much as possible, even the skills you already have. It is a great way to build a team.
 
-Contantly reacting is bad, it show you don't have a plan, that you are not strategic.
+Contantly reacting is bad, it shows you don't have a plan, that you are not strategic.
 
 Always be unfailingly kind.

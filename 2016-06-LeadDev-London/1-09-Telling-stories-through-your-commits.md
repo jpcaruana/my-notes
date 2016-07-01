@@ -4,7 +4,7 @@
     CTO Future works
     slides: https://speakerdeck.com/mocoso/telling-stories-through-your-commits-lead-developer-conference-2016
 
-The key challenge is to manage complexity: name, design, refactoring, autolated tests all need to convey the intent about software, and so does the VCS history.
+The key challenge is to manage complexity: name, design, refactoring, automated tests all need to convey the intent about software, and so does the VCS history.
 
 A VCS system is:
 
@@ -17,7 +17,7 @@ Three principles:
 1. Make atomic commits
     - 1 single change by commit
     - the minimal viable commit is the smallest usefull commit
-    - "A & B" needs to commits
+    - "A & B" needs to be splitted into 2 commits
 2. Write good commit messages
     - one title line
     - a longer description

@@ -3,20 +3,20 @@
     Mike Gehard
     slides: https://github.com/mikegehard/journeyFromMonolithToMicroservicesSlides/tree/leadDev
 
-see appcontinuum.io
+see http://www.appcontinuum.io/
 
-Which comes first ? The monolith of the microservices ? -> get started with **domain bounded context** (SOA was with domain bounded context).
+Which comes first ? The monolith of the microservices ? -> get started with **domain bounded context** (SOA was without domain bounded context).
 
 ## 1. write (API level) tests
 - don't break client behaviour
 - high level tests that reflect reality
 - use Pact (https://github.com/realestate-com-au/pact) to write contract in json and generate clients ( Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project)
 
-## 2. arrange appliction so you can SEE tyour domain
+## 2. arrange appliction so you can SEE your domain
 (Uncle Bob, drill down)
 
 - less costly to evolve and experiment boundaries
-- delay architecture decisions
+- delay architecture decisions, always
 
 ## 3. Break out components
 
@@ -35,7 +35,7 @@ Cost must be > to benefits before moving on
 But it comes with additional costs: 
 
 - **service discovery**: new application with 0 business value. Increases flexibility
-- **circuit breaker**: new application with 0 business value, too. The maybe monad in a distributed system. Increases resilience and the visibility of systems.
+- **circuit breaker**: new application with 0 business value, too. The "maybe monad" in a distributed system. Increases resilience and the visibility of systems.
 
 ## 5. Next steps
 

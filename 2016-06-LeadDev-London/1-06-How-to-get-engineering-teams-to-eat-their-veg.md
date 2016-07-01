@@ -9,7 +9,7 @@ How to foster excellent working environment with *minimal* process ?
 - We are making more than just software, but also **culture** and **norm**
 - iteration beats rewrite
 - coordination is a competitive advantage
-- software engineergin is a collaborative process
+- software engineering is a collaborative process
 - solidarity matters
 
 Qualities of high performance teams: 
@@ -33,7 +33,7 @@ Pratical magic:
     1. agendas
     2. interruption free
     3. turn talking
-- ciht chat
+- chit chat
 - effective feedback
 
 Good teams are like weapons. Don't suppress your humanity.

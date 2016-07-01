@@ -22,9 +22,9 @@ The path os **rocky**, with a lot of mistakes. As a tech lead, your impact is am
 Mistakes not to do:
 
 - writting code all the time (because it feels safe)
-- make all technical decisions (you don't have all the info). What os left for the others ?
+- make all technical decisions (you don't have all the info). What is left for the others ?
 - people is someone else's problem
-- the team kown what they are doing. Your responsability is to make everyone aligned, resolve problems as a team (with concensus)
+- the team known what they are doing. Your responsability is to make everyone aligned, resolve problems as a team (with concensus)
 
 ## 3. A wiser tech lead
 
@@ -39,18 +39,18 @@ Mistakes not to do:
 - your role is not to be liked by everyone (example, fable from Esope "the man, the boy and the donkey")
 - you are not alone
     + as a dev, you were part of a team
-    + as a lead dev, you are a little out of the team. They are other peolple outside the team to help you. -> build your own support network
+    + as a lead dev, you are a little out of the team. They are other people outside the team to help you. -> build your own support network
 - non tech areas are as just as important
     + less instant gratification
     + invest time in all areas
-- people are complex. don't think of developers just as a collective group. Think of each person individually, what are their passions, what they do on theirs week ends... It takes tims (it's a lot of conversations). Create a feedback culture.
+- people are complex. don't think of developers just as a collective group. Think of each person individually, what are their passions, what they do on theirs week ends... It takes time (it's a lot of conversations). Create a feedback culture.
 - you can't do everything yourself. Use the **situational leadership model**. 
     + two axis, supporting, and directing
     + 4 phases: sell, tell, participate, delegate
     + how do you progress people between these phases ?
 - they are many ways to be a leader
     + coach: asking questions to let people connect the dots
-    + shepherd: hep-lp people along the path
+    + shepherd: help people along the path
     + shaman: (story telling ability) why things are the way they are
     + champion: protect the team, to give them space
 - you have a secret power: saying **no**. Focus on where there is the most value. Important things before urgent things.

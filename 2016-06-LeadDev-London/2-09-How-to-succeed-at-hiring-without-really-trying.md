@@ -1,11 +1,11 @@
-# How to succeed at hireng without really trying
+# How to succeed at hiring without really trying
 
     Melinda Seckington @mseckington
     slides: http://fr.slideshare.net/mseckington/how-to-succeed-at-hiring-without-really-trying
 
 How do we expose our teams so that people want to work for us ? transparency instead of a black box?
 
-Create a relationship between your company and customers. Make some "emplyee evangelism": talk to events, write blog posts. Will bring new developpers to your company.
+Create a relationship between your company and customers. Make some "employee evangelism": talk to events, write blog posts. Will bring new developpers to your company.
 
 Make your users **badasses**.
 

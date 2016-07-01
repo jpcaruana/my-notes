@@ -5,7 +5,7 @@
 
 (Very boring and useless)
 
-The limits of language limtis my world.
+The limits of language limits my world.
 
 - F#: type providers. (ex: completion in S3 buckets for the IDE)
 - Clojure: macros (code is data/data is code)
