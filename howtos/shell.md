@@ -78,5 +78,5 @@ Posté sur twitter : https://twitter.com/jpcaruana/status/517350502195949568
 # Formatter un bash une sortie json
 
 ````bash
-curl http://monservice.js  python -m json.tool
+curl http://monservice.js | python -m json.tool
 ````
