@@ -19,6 +19,7 @@ Amazon a publié un SDK Java qui permet d’interagir avec tous les services AWS
 
 ## Principes généraux
 DynamoDB est une base de données clef/valeur "_infiniement scalable_". On ne paye qu'à l'usage selon 3 axes, selon notre réglage sur chaque table :
+
 * la _quantité_ de données stockées
 * la capacité en _lecture_ par seconde
 * la capacité en _écriture_ par seconde
@@ -26,24 +27,28 @@ DynamoDB est une base de données clef/valeur "_infiniement scalable_". On ne pa
 DynamoDB s'intègre très bien avec Amason  Redshift et EMR (Elastic Map Reduce, Hadoop).
 
 Vue hiérarchique :
+
 * Chaque compte AWS possède une collection de **tables** par région.
-* Chaque table est une collection d'**items**
-* Chaque item est une collection arbitraire d'**attributs** (des couples clef/valeur)
+* Chaque table est une collection d' **items**
+* Chaque item est une collection arbitraire d' **attributs** (des couples clef/valeur)
 
 Chaque table doit avoir une **clef primaire** et chaque item doit avoir une clef **unique**.
 
 Il y a 2 types de clefs primaires :
+
 * **hash** : un seul attribut (index non ordonné sur le hash)
 * **hash + range** : clef composite sur 2 attributs.
 
 Les type de données :
+
 * des **Strings** (stockées en UTF-8) et des **StringSets**
 * des **Numbers** (jusqu'à 38 digits) et des **NumberSets**
 * des **Binaries** et des **BinarySets**
 
 La taille maximum d'un item est de **64 ko**. Le nom des attributs _compte_ dans la taille d'un item.
 
-###Les indexes
+### Les indexes
+
 * les données sont indexées sur les clefs primaires
 * les **LSI** (Local Secondary Indexes) permettent de parcourir les données hors des clefs de manière plus efficace. Pour moi, cela se rapproche des indexes de MOngoDB sans le coût de RAM à gérer. La limite est de 10 Go par clef hash
 * les **GSI** (Global Secondary Indexes) permettent de parcourir les données sur n'importe quel champ. Par contre, des frais supplémentaires s'appliquent.
@@ -52,8 +57,9 @@ Les indexes ne peuvent être changés après leur création. Par contre, le prov
 
 Amazon se charge de sharder/partitionner/répartir les données selon la taille des données et le provisionning lecture/écriture demandé. En cas de changement de provisionning, les données sont reshardées automatiquement. Pour scaler massivement, il faut donc un grand nomble de clefs hash différentes.
 
-###API
-####en lecture
+### API
+#### en lecture
+
 * **GetItem** : aller chercher un élément par sa clef primaire
 * **Query** : s'appuie sur la clef composite
     * sur une valeur du hash
@@ -63,7 +69,8 @@ Amazon se charge de sharder/partitionner/répartir les données selon la taille 
 * **BatchGetItem** : récupérer différents éléments (sur plusieurs tables)
 * **Scan** : plutot pour en export de données
 
-####en écriture
+#### en écriture
+
 * **PutItem** :
     * ajouter un nouvel élément
     * remplacer un nouvel élément
@@ -79,6 +86,7 @@ Amazon se charge de sharder/partitionner/répartir les données selon la taille 
 Pour modéliser, il faut partir des usages et des **Use Case**, puis identifier les différents **patterns d'utilisation** de ces Use Case pour enfin en déduire le **design** des données.
 
 exemples : 
+
 * relations 1-1 : hash 
 * relations 1-n : hash sur une table et Hash/Range sur l'autre
 * relations n-m : Hash/Range sur les 2 tables (respectivement inveres l'une de l'autre)
@@ -86,6 +94,7 @@ exemples :
 Dans le cas d'un multi-client' utiliser le client ID comme hash et ajouter une range key spécifique à la donnée (ex: user ID)
 
 ## Conseils
+
 * garder la taille des items la plus petite possible
     * en compressant de manière binaire
     * en choisissant des noms succincts pour les attributs
@@ -96,6 +105,7 @@ Dans le cas d'un multi-client' utiliser le client ID comme hash et ajouter une r
 * il est possible de mapper une table DynamoDB sur EMR/Hyve
 
 ## liens
+
 * [documentation officielle](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/)
 * [vidéos officielles](https://aws.amazon.com/fr/dynamodb/getting-started/)
 * SDK officiel:

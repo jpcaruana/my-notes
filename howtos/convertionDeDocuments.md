@@ -11,14 +11,20 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-#Convertir à l'aide de LibreOffice --> PDF
+# Coverrtir du Word en Markdown
+
+````bash
+pandoc -f docx -t markdown  --extract-media="." -o test.md test.docx
+````
+
+# Convertir à l'aide de LibreOffice --> PDF
 
 ````bash
 libreoffice -headless -convert-to pdf  pres.ppt
 ````
 
-#Convertir depuis un PDF en JPG
-##image magick
+# Convertir depuis un PDF en JPG
+## image magick
 
 PPT --> PDF --> JPEG en 3 résolutions (800 1024 1280)
 
@@ -43,15 +49,15 @@ convert -quality 100  -geometry 256x256 pres.pdf vignette-pres-%00d.jpg
 
 (14s)
 
-##ghostscript
-###Split d'un PDF en fichiers PNG
+## ghostscript
+### Split d'un PDF en fichiers PNG
 
 ````bash
 gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=png16m -dGraphicsAlphaBits=4 -dTextAlphaBits=4 -sOutputFile='page-%00d.png' -r150 pres.pdf
 ````
 16s 
 
-###Split d'un PDF en fichiers PDF (un par page)
+### Split d'un PDF en fichiers PDF (un par page)
 
 Nécessite la présence du fichier "pdf_info.ps"  :http://svn.ghostscript.com/ghostscript/trunk/gs/toolbin/pdf_info.ps (5.6 ko)
 
