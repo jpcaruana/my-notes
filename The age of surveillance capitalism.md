@@ -1,4 +1,5 @@
 # The age of surveillance capitalism
+_The fight for a human future at the new frontier of power_
 
 by Shoshana Zubroff
 
