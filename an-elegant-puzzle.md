@@ -40,6 +40,31 @@ Team reorg is painful but resolves quickly. It is much harder to keeping the fai
 Hiring is not the only way.
 
 The 4 states of a team, from "falling behind" to "innovating":
+
+```goat
++----------------+    +----------------+   +---------------+   +------------+ 
+|                |    |                |   |               |   |            | 
+| Falling behind +--->| Treading water +-->| Repaying debt +-->| Innovating |
+|                |    |                |   |               |   |            | 
++----------------+    +----------------+   +---------------+   +------------+ 
+```
+
+```goat
+                     ^
+                     |
+                .-.  |
+             .-+ 4 +'   Innovating
+           .+.  '-'
+          | 3 |         Repaying debt
+      .-.  '+'
+   .-+ 2 +-'            Treading water
+ .+.  '-'
+| 1 |                   Falling behind
+ '+'
+-'
+```
+
+
 1. falling behind: hire
 	- how
 		- backlog grows
